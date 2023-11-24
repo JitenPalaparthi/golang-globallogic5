@@ -51,8 +51,7 @@ func main() {
 		max  = 10 // short hand declartion
 		min  = 1
 		days = 7
-
-		ok = true
+		ok   = true
 	)
 
 }
