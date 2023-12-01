@@ -22,7 +22,7 @@
 
 ## keywords
 
-- break,case,const,continue,default,defer,else,fallthrough,for,func,goto,if,import,map,package,range,return,struct,switch,type,var
+- break,case,const,continue,default,defer,else,fallthrough,for,func,go,goto,if,import,map,package,range,return,struct,switch,type,var
 
 ## compile build run
 
