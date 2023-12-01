@@ -17,5 +17,4 @@ func main() {
 	var sum float64 = float64(num1) + float64(num2) + float64(num3) + float64(num4) + float64(num5) + float64(float1) + float2 + iface1.(float64) + float64(iface2.(int)) + float64(iface3.(float32))
 	fmt.Println(sum)
 	fmt.Printf("Value: %.4f Type: %T", sum, sum) // formater
-
 }
